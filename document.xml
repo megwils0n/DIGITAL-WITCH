@@ -10,9 +10,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.206Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.031Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.206Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.031Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2"}</cw:cwrcAttributes>
@@ -27,16 +27,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_94"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_180"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.208Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.033Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.208Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.033Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2 P3"}</cw:cwrcAttributes>
@@ -51,16 +51,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_96"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_182"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.208Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.034Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.208Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.034Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -75,16 +75,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_98"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_184"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.209Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.036Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.209Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.036Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -99,16 +99,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_100"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_186"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.212Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.037Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.212Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.037Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -123,16 +123,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_102"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_188"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.213Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.039Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.213Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.039Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2"}</cw:cwrcAttributes>
@@ -147,16 +147,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_104"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_190"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.214Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.040Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.214Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.040Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -171,16 +171,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_106"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_192"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.215Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.041Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.215Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.041Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -195,16 +195,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_108"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_194"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.216Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.042Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.216Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.042Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"I1"}</cw:cwrcAttributes>
@@ -219,16 +219,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_110"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_196"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.218Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.043Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-22T00:47:24.218Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-23T18:17:24.043Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"I1"}</cw:cwrcAttributes>
@@ -243,10 +243,13 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_112"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_198"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
+
+
+
 
 
 
@@ -270,7 +273,7 @@
                 <p>Information about the source</p>
             </sourceDesc>
         </fileDesc>
-    <encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-03-22T00:45:39.488Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+    <encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-03-23T18:15:38.286Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
     <text>
     <body>
     <!--  The type attribute in the &lt;div&gt; tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the &lt;div&gt; type attribute  -->
@@ -280,37 +283,214 @@
                     <title>💩Dirt and Flowers💐, 💉Blood and Running Water🌊, 🍆Sex and Sickness🤮,🔮 Spells and Household Tools🛠 : THE EMOJI GRIMOIRE</title> Meg Wilson</bibl></head>
            <p xml:id="P1">HERE IS WHERE THINGS GO</p>
         </div>		<div type="chapter">
+            <head><bibl><title>To bring strength and energy for the winter months:</title></bibl></head>
+           <p xml:id="P2">✨❄️🌲☕️🐻🌙🐻☕️🌲❄️✨</p>
+        </div>        <div type="chapter">
+            <head>To have the energy to get something done that you don’t want to do:</head>
+           <p xml:id="P3">🔮✨⚡️🔺😓🔺⚡️✨🔮</p>
+        </div>		<div type="chapter">
+            <head>
+                <bibl><title>To have a productive day:</title></bibl></head>
+           <p xml:id="P4">🐝⏳🔆🎠☕🎠🔆⌛🐝</p>
+        </div><div type="chapter">
+            <head>
+                <bibl><title>To find prosperity, peace, and safety in the autumn season:</title></bibl></head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
             <head>
                 <bibl>
                     <title>Title</title> <author>Author</author>
                 </bibl>
             </head>
            <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>        <div type="chapter">
-            <head>
-                <bibl>
-                    <title>Second Chpater </title> Meg Wilson</bibl></head>
-           <p xml:id="P3">MOREMOREMORE</p>
-        </div>		<div type="chapter">
+        </div><div type="chapter">
             <head>
                 <bibl>
                     <title>Title</title> <author>Author</author>
                 </bibl>
             </head>
-           <p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div><div type="chapter">
+            <head>
+                <bibl>
+                    <title>Title</title> <author>Author</author>
+                </bibl>
+            </head>
+           <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
         <!--  To add an index  -->
         <div type="index">
                 <list>
-                        <item xml:id="I1"><ref annotationId="ent_94" target="P2">term</ref></item>
-                        <item xml:id="I2"><ref annotationId="ent_96" target="P2 P3">term</ref></item>
-                        <item xml:id="I3"><ref annotationId="ent_98" target="P4">term</ref></item>  
+                        <item xml:id="I1"><ref annotationId="ent_180" target="P2">term</ref></item>
+                        <item xml:id="I2"><ref annotationId="ent_182" target="P2 P3">term</ref></item>
+                        <item xml:id="I3"><ref annotationId="ent_184" target="P4">term</ref></item>  
                         
                         <!--  To create a subsection of terms  -->
-                        <item xml:id="I4"><ref annotationId="ent_100" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_102" target="P1">subterm</ref></item>		<item><ref annotationId="ent_104" target="P2">subterm</ref></item>		<item><ref annotationId="ent_106" target="P4">subterm</ref></item>	</list>
+                        <item xml:id="I4"><ref annotationId="ent_186" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_188" target="P1">subterm</ref></item>		<item><ref annotationId="ent_190" target="P2">subterm</ref></item>		<item><ref annotationId="ent_192" target="P4">subterm</ref></item>	</list>
                         </item>  
                         
-                        <!--  To create index cross references  --> 	 	<item xml:id="I5">	 <ref annotationId="ent_108" target="P4">term</ref> 	<list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_110" target="I1">associated term</ref></item>	<item><ref annotationId="ent_112" target="I1">associated term</ref></item>	</list>	</item>	</list>
+                        <!--  To create index cross references  --> 	 	<item xml:id="I5">	 <ref annotationId="ent_194" target="P4">term</ref> 	<list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_196" target="I1">associated term</ref></item>	<item><ref annotationId="ent_198" target="I1">associated term</ref></item>	</list>	</item>	</list>
            </div>
          </body>
     </text>
